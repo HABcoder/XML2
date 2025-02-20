@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="data.xsl"?>
+  <car>
+  <details>
+        <name>BMW</name>
+        <model>3 Series</model>
+        <year>2018</year>
+        <price>35000</price>
+        <color>Black</color>
+        <mileage>50000</mileage>
+        <engine>2.0L</engine>
+        <transmission>Automatic</transmission>
+        <fuelType>Petrol</fuelType>
+  </details>
+   <details>
+        <name>Ferrrari</name>
+        <model>3 Series</model>
+        <year>2018</year>
+        <price>35000</price>
+        <color>Black</color>
+        <mileage>50000</mileage>
+        <engine>2.0L</engine>
+        <transmission>Automatic</transmission>
+        <fuelType>Petrol</fuelType>
+  </details>
+   <details>
+        <name>Bugatti</name>
+        <model>3 Series</model>
+        <year>2018</year>
+        <price>35000</price>
+        <color>Black</color>
+        <mileage>50000</mileage>
+        <engine>2.0L</engine>
+        <transmission>Automatic</transmission>
+        <fuelType>Petrol</fuelType>
+  </details>
+   <details>
+        <name>Lamborgani</name>
+        <model>3 Series</model>
+        <year>2018</year>
+        <price>35000</price>
+        <color>Black</color>
+        <mileage>50000</mileage>
+        <engine>2.0L</engine>
+        <transmission>Automatic</transmission>
+        <fuelType>Petrol</fuelType>
+  </details> 
+  </car>
